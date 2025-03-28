@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedayassin&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedayassin" /> </p>
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **Kubernetes & Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
