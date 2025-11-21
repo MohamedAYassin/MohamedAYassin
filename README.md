@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/moinator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-yassin-45825a22a" height="30" width="40" /></a>
 <a href="https://instagram.com/mo1nator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo1nator" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/moinator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="moinator" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
