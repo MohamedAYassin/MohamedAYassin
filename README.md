@@ -51,5 +51,3 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedayassin&show_icons=true&locale=en" alt="mohamedayassin" /></p>
-
