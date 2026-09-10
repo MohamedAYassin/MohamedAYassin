@@ -51,22 +51,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedAYassin&show_icons=true&theme=dracula&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedAYassin&layout=compact&theme=dracula" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAYassin&theme=dracula" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedAYassin&color=61dafb&style=flat-square&label=VISITORS" alt="Visitors" />
-</p>
